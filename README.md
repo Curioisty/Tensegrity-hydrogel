@@ -1,5 +1,5 @@
 # Tensegrity-hydrogel
-Thsi is a LAMMPS code for Tensegrity-hydrogel
+This is a LAMMPS code for Tensegrity-hydrogel
 
 start from step0 with LAMMPS
 
